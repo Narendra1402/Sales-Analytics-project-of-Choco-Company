@@ -1,28 +1,90 @@
-Awesome sales analytics dashboard
+#  **🍫 Awesome ChocoStore Sales Dashboard**
 
-![Choco Sales BD](https://github.com/user-attachments/assets/67d3026b-6f5b-4ae1-956c-cc8e8aa69098)
 
-🚀 **Excited to Share My Latest Power BI Project!** 🍫📊
+## 📌 Project Overview
+This dashboard provides end-to-end visibility into the sales, shipment, and cost performance of Awesome ChocoStore, a premium chocolate brand operating globally. It is designed to help stakeholders track KPIs, identify top-performing products and salespeople, and optimize costs and logistics.
 
-I recently completed a comprehensive **Sales Analytics project** for a chocolate company using **Power BI**. This project involved leveraging advanced Power BI functionalities to provide in-depth insights into the company’s sales performance and help drive strategic business decisions.
+## 🌟 Business Objectives
 
-🔍 Key Highlights of the Project:
+- Monitor overall business performance: Sales, Costs, Shipments, and Profit.
+- Identify top-performing products and salespeople.
+- Track shipment distribution and logistics patterns.
+- Analyze cost trends over time.
+- Highlight underperformers and areas for improvement.
 
-1.Advanced DAX Functions: Utilized complex DAX functions to calculate key performance indicators (KPIs) such as sales growth, revenue trends, and market segmentation.
 
-2.Time Intelligence: Implemented time intelligence functions to analyze seasonal trends and year-over-year comparisons, providing valuable insights into sales performance over different time periods.
+## 🔍 Key Insights
+### 🧾 Executive KPIs
+<img width="870" height="486" alt="Capture1" src="https://github.com/user-attachments/assets/1de94b23-896c-4461-b3a1-157493b1b1d1" />
 
-3.Dynamic Visualizations : Designed interactive dashboards with slicers, filters, and icons, allowing users to explore sales data by region, product line, and time period.
+  - **Sales**: $34M
+  - **Total Boxes Sold**: 2M
+  - **Total Shipments**: 6K
+  - **Total Costs**: $14M
+  - **Total Profit**: $21M
+  - **Profit Margin**: 60%
+-  **📉 Month-over-Month decline is seen in all major KPIs, with Shipments and Costs seeing the steepest drop.**
 
-4.Grouping and Field Parameters : Used grouping and field parameters to customize reports, making it easier for users to drill down into specific data points and visualize key metrics dynamically.
 
-5.Data Integration : Integrated data from multiple sources to provide a 360-degree view of the sales pipeline and enhance data-driven decision-making.
+## 📦 Shipment & Cost Analysis
 
-This project has truly enhanced my skills in data visualization and analytics and reinforced the importance of storytelling through data.
+- **Shipment Analysis (Histogram)**: Most shipments fall under smaller volume categories, suggesting frequent but low-volume dispatches.
+- **Costs Over Time (Line Chart)**: Monthly cost fluctuations highlight possible seasonal impacts or promotional expenses, peaking near Nov 2023.
 
-I am thrilled to see the impact this analysis can have on business strategies, and I'm eager to apply these insights to future projects!
+  
+## 👤 Salesperson Performance 
+<img width="358" height="397" alt="Capture2" src="https://github.com/user-attachments/assets/cabb0adf-2f40-4ac7-9d1e-c83f93d4e1ab" />
 
-If you’re interested in learning more about this project or discussing data analytics, feel free to connect with me! 🤝
+### Top Performers:
+  - Wilone O'Kielt: $1.34M sales | $800K profit | 59.7% margin
+  - Van Tuxwell & Roddy Speechley also contributed significantly.
 
-#PowerBI #DataAnalytics #SalesAnalytics #DataVisualization #BusinessIntelligence #DAX #TimeIntelligence #FieldParameters #IconDesign #DataScience #ChocolateLovers
+### Underperformers::
+  - Madeleine Upcott: 53.9% margin with a red flag for LBS % (possibly logistics issues).
+    
+- LBS% (Logistics Benchmark) flags inefficiencies or excellence in shipment-to-sales efficiency.
+
+## 🍫 Product Performance 
+<img width="356" height="394" alt="Capture2" src="https://github.com/user-attachments/assets/e439a13a-8a4c-4008-b28e-dfec6d1ae59a" />
+
+### Top Revenue Generators:
+  - After Nines ($1.824M), Almond Choco ($1.781M), Smooth Silky Sally ($1.717M)
+
+### Best Profit Margins:
+  - Spicy Special Slims (64.9%), After Nines (55.6%), Drinking Cocoa (60.6%)
+
+### Low Margin Products (⚠️):
+  - Wilone O'Kielt: $1.34M sales | $800K profit | 59.7% margin
+  - Van Tuxwell & Roddy Speechley also contributed significantly.
+
+
+
+## Tools & Stack
+
+- Power BI Desktop & Power BI Service – for modeling, visualizing, and publishing.
+- DAX: Measures for Sales, Costs, Profits, Profit %, and LBS%
+- Power Query: Data cleanup and joins between shipment, product, and salesperson tables
+
+
+## ✅ Features
+
+- Month-over-month KPI comparison with trend indicators.
+- Interactive slicers (Region, Category, Salesperson).
+- Custom tooltips and icon indicators for performance thresholds.
+- Shipment and cost tracking integrated with performance KPIs.
+
+
+## 📌 Business Value
+
+This dashboard simplifies data storytelling for the management team, giving them a single view of product and sales team efficiency, cost dynamics, and shipping behavior. It identifies where to cut costs, which products to promote, and which salespersons need support or recognition.
+
+## Acknowledgements
+Inspired by the retail domain and optimized for executive-level consumption. Data is sample and anonymized for demo purposes.
+
+## 🔗 Connect With Me  
+Feel free to explore more of my projects and reach out:  
+- [LinkedIn](https://www.linkedin.com/in/narendrasingh1402)
+- [YouTube](https://www.youtube.com/@Analyst_Hive)  
+- [Portfolio](https://narendra1402.github.io/)
+
 
